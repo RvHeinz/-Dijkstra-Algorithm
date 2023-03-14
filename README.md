@@ -1,13 +1,14 @@
 # -Dijkstra-Algorithm
 # Project 2
 ## Author
- Vignesh Rajagopal
+ Vignesh Rajagopal <br>
+ 119476192
 
 
 ## Dependencies
 -Numpy
 -python3
--open cv
+-opencv
 
 ## Instructions:
 -unzip proj2_vigneshrajagopal
